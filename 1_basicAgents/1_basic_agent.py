@@ -36,5 +36,5 @@ agent = Agent(
 
 # Example usage
 agent.print_response(
-    "Tell me about the bill planning to end OPT.", stream=True
+    "who is current president of USA?", stream=True
 )
